@@ -2,6 +2,8 @@
 
 ![Screenshot of rendered page](assets/images/readmescreenshot.png)
 
+[Deployed page](https://matthewxgoad.github.io/goad_assignment1_htmlrefactor/index.html)
+
 ## Description 
 
 This is a refactoring of code for a fictional Search Engine Optimization site. The original code was functional, save for a broken internal link. The primary purpose of this refactor is to make the page more accessible. 
