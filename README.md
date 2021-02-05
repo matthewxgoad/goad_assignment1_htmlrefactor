@@ -1,4 +1,4 @@
-# css-demo-site
+# Goad, Matthew Assignment 1 - HTML Refactor
 
 ![Screenshot of rendered page](assets/images/readmescreenshot.png)
 
